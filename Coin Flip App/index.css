@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+div {
+  text-align: center;
+  margin-top: 20px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  margin: 10px 0;
+}
